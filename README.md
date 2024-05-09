@@ -7,7 +7,7 @@
 This file utilizes markdown language to present an overview of all of the files necessary for the team's project submission for the HPA-axis ODE model project. 
 ##### __Files__
 - File 1: BMES511_ProjectRK4_Benzo.m
-    - This is a matlab script file that houses the main code for our project. It employs RK4 method to solve the ODES from the referenced Gupta et al. paper that models the response to stress with Benzodiazepines. NOTE: The constants and parameter values do not immediately reflect the values presented in the paper. 
+    - This is a matlab script file that houses the main code for our project. It employs RK4 method to with the main goal of recreating and solving the ODES from the referenced Gupta et al. paper. It then models the response to stress with Benzodiazepines. NOTE: The constants and parameter values do not immediately reflect the values presented in the paper. 
 - File 2: BMES511_Term Paper Final.pdf
     - This word document is the report that was written for the project, titled: Effects of Benzodiazepines on the HPA Axis
 - File 3: index.yml
